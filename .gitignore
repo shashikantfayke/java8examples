@@ -25,3 +25,5 @@ java8examples.iml
 src/main/resources/
 src/test/
 target/
+java8.iml
+java8.ipr
